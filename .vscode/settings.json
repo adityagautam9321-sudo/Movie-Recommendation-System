@@ -1,0 +1,5 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python.defaultInterpreterPath": "C:\\Users\\adity\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+    "python.interpreter.infoVisibility": "always"
+}
